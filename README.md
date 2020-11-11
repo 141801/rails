@@ -11,3 +11,9 @@ source /usr/local/rvm/scripts/rvm  # Setup RVM source folder
 ## トラブル１：yarnがインストールできない
 対策：https://classic.yarnpkg.com/en/docs/install/#debian-stable
 
+## トラブル2：外からアクセスできない
+```
+rails s -b localhost  -p 80
+→　rails s -b 0.0.0.0  -p 80
+```
+
