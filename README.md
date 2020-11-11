@@ -19,3 +19,5 @@ rails s -b localhost  -p 80
 ## Rails scaffoldの使い方 
 https://www.javadrive.jp/rails/scaffold/index1.html
 
+## Rail devise,scaffold 組み合わせの使い方
+https://qiita.com/takatoshi0905/items/a39b36ed4720880d4b59
