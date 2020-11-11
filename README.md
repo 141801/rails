@@ -8,3 +8,6 @@ curl -sSL https://get.rvm.io | bash -s stable --ruby
 source /usr/local/rvm/scripts/rvm  # Setup RVM source folder
   ```
   
+## トラブル１：yarnがインストールできない
+対策：https://classic.yarnpkg.com/en/docs/install/#debian-stable
+
