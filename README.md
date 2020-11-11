@@ -21,3 +21,7 @@ https://www.javadrive.jp/rails/scaffold/index1.html
 
 ## Rail devise,scaffold 組み合わせの使い方
 https://qiita.com/takatoshi0905/items/a39b36ed4720880d4b59
+
+
+## Rails ルーティング 基礎 まとめ
+https://qiita.com/akk11_k/items/a6a21beb2b736ebbc147
