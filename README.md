@@ -25,3 +25,6 @@ https://qiita.com/takatoshi0905/items/a39b36ed4720880d4b59
 
 ## Rails ルーティング 基礎 まとめ
 https://qiita.com/akk11_k/items/a6a21beb2b736ebbc147
+
+##　MySQLとPostgreSQLコマンド比較表
+https://qiita.com/aosho235/items/c657e2fcd15fa0647471
