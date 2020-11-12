@@ -37,3 +37,6 @@ https://taiga-onrails0329.hatenablog.com/entry/2019/02/04/222812
 
 ## deviseの使い方をマスターしてログイン認証機能を実装しよう！ (mail)
 https://pikawaka.com/rails/devise
+
+##  Railsのフォーム基本的な作成方法まとめ
+https://qiita.com/ykyk1218/items/2541a313aac0f0e5d81a
