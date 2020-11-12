@@ -33,3 +33,7 @@ https://qiita.com/tobita0000/items/866de191635e6d74e392
 
 ## configure_permitted_parametersメソッドってなんぞや
 https://taiga-onrails0329.hatenablog.com/entry/2019/02/04/222812
+
+
+## deviseの使い方をマスターしてログイン認証機能を実装しよう！ (mail)
+https://pikawaka.com/rails/devise
