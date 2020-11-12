@@ -22,7 +22,6 @@ https://www.javadrive.jp/rails/scaffold/index1.html
 ## Rail devise,scaffold 組み合わせの使い方
 https://qiita.com/takatoshi0905/items/a39b36ed4720880d4b59
 
-
 ## Rails ルーティング 基礎 まとめ
 https://qiita.com/akk11_k/items/a6a21beb2b736ebbc147
 
@@ -31,3 +30,6 @@ https://qiita.com/aosho235/items/c657e2fcd15fa0647471
 
 ## Rails deviseで使えるようになるヘルパーメソッド一覧
 https://qiita.com/tobita0000/items/866de191635e6d74e392
+
+## configure_permitted_parametersメソッドってなんぞや
+https://taiga-onrails0329.hatenablog.com/entry/2019/02/04/222812
