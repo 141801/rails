@@ -28,3 +28,6 @@ https://qiita.com/akk11_k/items/a6a21beb2b736ebbc147
 
 ##　MySQLとPostgreSQLコマンド比較表
 https://qiita.com/aosho235/items/c657e2fcd15fa0647471
+
+## Rails deviseで使えるようになるヘルパーメソッド一覧
+https://qiita.com/tobita0000/items/866de191635e6d74e392
