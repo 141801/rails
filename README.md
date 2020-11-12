@@ -40,3 +40,6 @@ https://pikawaka.com/rails/devise
 
 ##  Railsのフォーム基本的な作成方法まとめ
 https://qiita.com/ykyk1218/items/2541a313aac0f0e5d81a
+
+## devise導入からユーザーのプロフィール画面を作成するまで
+https://qiita.com/ryokky59/items/71b5a853989721b89c6e
