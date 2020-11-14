@@ -20,6 +20,9 @@ https://codezine.jp/article/detail/9914
 rails s -b localhost  -p 80
 →　rails s -b 0.0.0.0  -p 80
 ```
+## rails db:setup PG::ConnectionBad: FATAL:  role "root" does not exist
+create role root with createdb login password 'rockon123' ;
+
 ## Rails scaffoldの使い方 
 https://www.javadrive.jp/rails/scaffold/index1.html
 
@@ -47,3 +50,7 @@ https://qiita.com/ykyk1218/items/2541a313aac0f0e5d81a
 
 ## devise導入からユーザーのプロフィール画面を作成するまで
 https://qiita.com/ryokky59/items/71b5a853989721b89c6e
+
+
+
+
